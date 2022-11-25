@@ -1,6 +1,6 @@
 {
   "name": "@mongodb-model/socket",
-  "version": "0.0.10000",
+  "version": "0.0.10001",
   "description": "socket",
   "main": "index.js",
   "bin": {
